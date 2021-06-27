@@ -1,6 +1,6 @@
 {
   "name": "package-b",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21",
-    "package-c": "^1.0.0"
+    "package-c": "^0.0.1"
   }
 }
